@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="extras/ultradeluxe-logo.svg" alt="Ultradeluxe logo" width="600">
+  <img src="extras/ultra-dx.svg" alt="Ultradeluxe logo" width="600">
 </p>
 
 # ULTRA FRAME
