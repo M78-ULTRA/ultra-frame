@@ -1,4 +1,6 @@
-# macOS
+# macOS (Git only ignores untracked files — use `git rm -r --cached . && git add .`
+# once if junk was committed before this file existed.)
+**/.DS_Store
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -16,6 +18,8 @@ Desktop.ini
 
 # KiCad — local / machine-only (safe to ignore everywhere in this repo)
 *.lck
+**/*.lck
+~*.lck
 **/.history/
 fp-info-cache
 *-backups/
