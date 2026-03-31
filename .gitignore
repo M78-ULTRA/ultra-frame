@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / tooling
+*.swp
+*.swo
+*~
+
+# KiCad — local / machine-only (safe to ignore everywhere in this repo)
+*.lck
+**/.history/
+fp-info-cache
+*-backups/
